@@ -33,11 +33,11 @@ Digit recognition using keras, opencv and mnist dataset
 	<h2>Model evaluation</h2>
 	<ul>
 		<li>Accuracy : 99,16% on validation set </li>
-		<li>Loss : on 2,43% on validation set </li>
+		<li>Loss : 2,43% on validation set </li>
 	</ul>
 
 
-<img src="img/accuracy.png" alt="hi" class="inline" height="360" width="446"/>
-<img src="img/loss.png" alt="hi" class="inline" height="360" width="446"/>
+<img src="Img/accuracy.png" alt="hi" class="inline" />
+<img src="Img/loss.png" alt="hi" class="inline" />
 
 </p>
