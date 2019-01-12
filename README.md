@@ -25,6 +25,7 @@ Digit recognition using keras, opencv and mnist dataset
 </p>
 <p>
 	<h2>Dataset description </h2>
+	60000 digit used for training, 10000 for validation
 
 
 </p>
