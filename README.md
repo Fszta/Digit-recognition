@@ -1,14 +1,13 @@
-# Digit-recognition
+# Digit-recognition with keras
 
 ![](https://img.shields.io/badge/Python-3.6.2-blue.svg) 
 
-Digit recognition using keras, opencv and mnist dataset
+Model has been trained using google colab : https://colab.research.google.com/
 
 
 <h2>Dependencies</h2>
 
 <ul>  
-  <li>OpenCv</li>
   <li>Keras</li>
   <li>Seaborn</li>
   <li>Sklearn</li>
